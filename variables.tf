@@ -1,3 +1,0 @@
-variable "vpcname" {}
-
-variable "igwname" {}
